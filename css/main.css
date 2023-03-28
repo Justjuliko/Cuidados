@@ -32,3 +32,23 @@ body {
         position: relative;
         top: 1px;
     }
+#Logo{
+    position:fixed;
+    margin-top: 5%;
+    margin-left: 5%;
+}
+#indexBtns{
+    position: absolute;
+    margin: auto;
+}
+#encTxt{
+position: absolute;
+margin-top: 5%;
+margin-left: 10%;
+font-size:medium;
+}
+#back{
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 85%;
+}
