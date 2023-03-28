@@ -39,7 +39,7 @@ body {
 }
 #indexBtns{
     position: absolute;
-    margin: 10%;
+    margin: auto;
 }
 #encTxt{
 position: absolute;
@@ -50,5 +50,5 @@ font-size:medium;
 #back{
     position: fixed;
     margin-top: 5%;
-    margin-left: 95%;
+    margin-left: 85%;
 }
