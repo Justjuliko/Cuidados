@@ -38,3 +38,9 @@ body {
     margin-top: 0%;
     margin-left: 85%;
 }
+#logo{
+    position: fixed;
+}
+#map{
+    width: 5px;
+}
