@@ -34,7 +34,7 @@ body {
         top: 1px;
     }
 #back{
-    position: fixed;
+    position: absolute;
     margin-top: 5%;
     margin-left: 85%;
 }
