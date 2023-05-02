@@ -3,6 +3,10 @@ body {
     font-family: 'Alice', serif;
     font-size: 16px;
 }
+h2{
+    text-align: justify;
+    text-justify:auto;
+}
 
 .button {
     box-shadow: 0px 0px 0px 0px #1c1b18;
