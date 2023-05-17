@@ -67,19 +67,22 @@ h3 {
 .headerlogo {
     display: flex;
     position: fixed;
-    background-color: blue;
     margin-top: 0%;
+
 }
 
 #back{
     position: fixed;
     margin-left: 60%;
-    margin-top: 3%
+    margin-top: 3%;
+    background-color: #fff2e9;  
 }
 #logo{
     position: fixed;
     margin-top: -1%;
-    margin-left: -5%;
+    margin-left: -6%;
+    background-color: #fff2e9;
+    background-size:contain;
 }
 #logoimgstatic{
     position: fixed;
